@@ -1,46 +1,38 @@
-# Note Zipper
+# login-and-signup-assignment--Yash-Computech-Solutions
 <table>
 <tr>
 <td>
-  Note Zipper provides you one safe place for all your notes.
+  Login and Sign up assignment 
 </td>
 </tr>
 </table>
 
-# ![Note Zipper](https://github.com/Piyush55dude/notezipper/blob/master/images/landing.png)
 
-## [Click Here to Watch Full tutorial on Youtube](https://www.youtube.com/watch?v=IQXjO0t4XRM&list=PLKhlp2qtUcSYC7EffnHzD-Ws2xG-j3aYo)
-![MERN 1](https://user-images.githubusercontent.com/51760520/124705210-ea67ab00-df12-11eb-88cd-e9060c2942b9.png)
 
-## Demo
-Here is a working live demo :  https://notezipper.herokuapp.com/
 
 ## Site
 
 ### Landing Page
+![Screenshot 2024-01-18 115926](https://github.com/AmanMalviya22/login-and-signup-assignment--Yash-Computech-Solutions-Pvt-Ltd/assets/94959490/be449c64-d3f4-46ef-963e-09e417ca5f03)
 
-![](https://github.com/Piyush55dude/notezipper/blob/master/images/landing.png)
 
 ### Login Form
-You can register a new account or login with an existing one.
+You can login with email and password
 
-![](https://github.com/Piyush55dude/notezipper/blob/master/images/login.png)
+![Screenshot 2024-01-18 120023](https://github.com/AmanMalviya22/login-and-signup-assignment--Yash-Computech-Solutions-Pvt-Ltd/assets/94959490/fff2c388-ef01-4b17-a034-291d113309d3)
+
+
+### Register Form
+you can register with name, email,mob no, address.
+![Screenshot 2024-01-18 120009](https://github.com/AmanMalviya22/login-and-signup-assignment--Yash-Computech-Solutions-Pvt-Ltd/assets/94959490/36e96f0e-d2cb-4b58-a8e3-b305749e5d3f)
+
 
 ### Edit Profile
 
-![](https://github.com/Piyush55dude/notezipper/blob/master/images/profile.png)
+![Screenshot 2024-01-18 120103](https://github.com/AmanMalviya22/login-and-signup-assignment--Yash-Computech-Solutions-Pvt-Ltd/assets/94959490/7a88dd4c-36f7-457e-b431-a449ee046199)
 
-### Create a Note
 
-![](https://github.com/Piyush55dude/notezipper/blob/master/images/create.png)
 
-### All Notes
-
-![](https://github.com/Piyush55dude/notezipper/blob/master/images/allnotes.png)
-
-### Edit Note
-
-![](https://github.com/Piyush55dude/notezipper/blob/master/images/edit.png)
 
 ## Built with 
 
@@ -51,8 +43,9 @@ You can register a new account or login with an existing one.
 - [Bootstrap](http://getbootstrap.com/)
 
 ## Team
+![aman_malviya](https://github.com/AmanMalviya22/login-and-signup-assignment--Yash-Computech-Solutions-Pvt-Ltd/assets/94959490/8e7a9951-3f21-4757-ad2a-c3a6db182d17)
 
-[![Piyush Agarwal](https://avatars1.githubusercontent.com/u/51760520?v=3&s=144)](https://github.com/piyush-eon)
+(https://github.com/AmanMalviya22)
 
-MIT © [Piyush Agarwal ](https://github.com/piyush-eon)
+MIT © [Aman Malviya](https://github.com/AmanMalviya22)
 
